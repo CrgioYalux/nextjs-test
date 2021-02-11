@@ -1,0 +1,8 @@
+.header,
+.body {
+  display: grid;
+  place-items: center;
+  outline: 1px solid black;
+  padding: 0.5rem 2rem;
+  margin: 0.5rem;
+}

@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+  width: 30rem;
+  /* outline: 1px solid black; */
+}
+
+.content > * {
+  cursor: pointer;
+}

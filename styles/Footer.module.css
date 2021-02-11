@@ -1,0 +1,27 @@
+.container {
+  background-color: #000000;
+  height: 5rem;
+  color: white;
+  position: relative;
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.container p {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.footerBottom {
+  width: 100%;
+  height: 2rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgb(53, 49, 49);
+}
